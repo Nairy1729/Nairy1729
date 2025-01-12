@@ -67,7 +67,8 @@
   <img src="https://leetcard.jacoblin.cool/Fourierzz?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
-![GitHub Snake Animation](https://github.com/Nairy1729/Nairy1729/blob/output/snake.svg)
+
+![snake gif](https://github.com/Nairy1729/Nairy1729/blob/output/github-snake-dark.svg)
 
 
 ---
