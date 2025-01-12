@@ -15,15 +15,16 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me 🍬  
+<a href="https://www.linkedin.com/in/nairykumar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+<a href="https://leetcode.com/Fourierzz/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetCode&logoColor=black" alt="LeetCode"></a>  
+<a href="https://www.codechef.com/users/nairy1729"><img src="https://img.shields.io/badge/CodeChef-%23B92B27.svg?logo=codechef&logoColor=white" alt="CodeChef"></a>  
+<a href="https://twitter.com/Fourierzz/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter"></a>  
+<a href="https://medium.com/@Fourierzz"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" alt="Medium"></a>
 
-- [**LinkedIn**](https://www.linkedin.com/in/nairykumar/)  
-- [**LeetCode**](https://leetcode.com/Fourierzz/)  
-- [**CodeChef**](https://www.codechef.com/users/nairy1729)  
-- [**Twitter**](https://twitter.com/Fourierzz/)  
-- [**Medium**](https://medium.com/@Fourierzz)
 
----
+
+
 
 ### ⚡ GitHub Stats
 
