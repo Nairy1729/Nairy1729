@@ -26,13 +26,6 @@
 
 
 
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nairy1729&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ### 📊 Most Used Languages
 
